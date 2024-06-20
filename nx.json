@@ -49,5 +49,6 @@
         "testTargetName": "test"
       }
     }
-  ]
+  ],
+  "defaultProject": "elect-app"
 }
